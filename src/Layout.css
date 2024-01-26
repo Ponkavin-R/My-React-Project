@@ -1,0 +1,11 @@
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+Link {
+    text-decoration: solid;
+    color: aquamarine;
+}

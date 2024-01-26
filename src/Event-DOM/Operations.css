@@ -1,0 +1,16 @@
+.btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.btn {
+    background-color: aliceblue;
+    margin-top: 13rem;
+}
+
+h1 {
+    margin-left: 10rem;
+    height: 40px;
+    width: 13rem;
+}

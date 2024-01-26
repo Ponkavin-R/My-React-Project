@@ -1,0 +1,26 @@
+h1 {
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    width: 90px;
+    text-align: center;
+}
+
+button {
+    border: 5px solid blue;
+    justify-content: space-evenly;
+    border-radius: 15px;
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+div {
+    background-color: black;
+    border: 2px solid yellow;
+    border-radius: 15px;
+}
+
+p {
+    color: white;
+}
